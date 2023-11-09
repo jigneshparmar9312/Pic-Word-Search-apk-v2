@@ -1,0 +1,463 @@
+
+Rainbow.png
+size: 1976,1955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+56
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+57
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+58
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+59
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+60
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+61
+  rotate: false
+  xy: 2, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+51
+  rotate: false
+  xy: 972, 2
+  size: 946, 649
+  orig: 948, 653
+  offset: 1, 1
+  index: -1
+52
+  rotate: false
+  xy: 989, 653
+  size: 963, 649
+  orig: 966, 653
+  offset: 1, 1
+  index: -1
+53
+  rotate: false
+  xy: 2, 2
+  size: 968, 649
+  orig: 973, 653
+  offset: 1, 1
+  index: -1
+54
+  rotate: false
+  xy: 2, 653
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+55
+  rotate: false
+  xy: 989, 1304
+  size: 985, 649
+  orig: 988, 653
+  offset: 1, 1
+  index: -1
+
+Rainbow2.png
+size: 2008,1955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 1304
+  size: 927, 649
+  orig: 930, 653
+  offset: 1, 1
+  index: -1
+24
+  rotate: true
+  xy: 1752, 266
+  size: 385, 254
+  orig: 892, 257
+  offset: 1, 1
+  index: -1
+25
+  rotate: true
+  xy: 1752, 266
+  size: 385, 254
+  orig: 853, 257
+  offset: 1, 1
+  index: -1
+26
+  rotate: true
+  xy: 1752, 266
+  size: 385, 254
+  orig: 815, 257
+  offset: 1, 1
+  index: -1
+27
+  rotate: true
+  xy: 1752, 266
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+28
+  rotate: true
+  xy: 1752, 266
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 931, 1304
+  size: 909, 649
+  orig: 912, 653
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 2
+  size: 887, 649
+  orig: 890, 653
+  offset: 1, 1
+  index: -1
+49
+  rotate: false
+  xy: 920, 653
+  size: 875, 649
+  orig: 878, 653
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 891, 2
+  size: 859, 649
+  orig: 864, 653
+  offset: 3, 1
+  index: -1
+50
+  rotate: false
+  xy: 2, 653
+  size: 916, 649
+  orig: 918, 653
+  offset: 1, 1
+  index: -1
+
+Rainbow3.png
+size: 2048,1965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: true
+  xy: 1635, 1085
+  size: 878, 379
+  orig: 882, 381
+  offset: 2, 1
+  index: -1
+33
+  rotate: false
+  xy: 1514, 2
+  size: 385, 272
+  orig: 388, 275
+  offset: 1, 1
+  index: -1
+37
+  rotate: true
+  xy: 1592, 698
+  size: 385, 441
+  orig: 388, 444
+  offset: 1, 1
+  index: -1
+39
+  rotate: true
+  xy: 1514, 276
+  size: 385, 532
+  orig: 388, 536
+  offset: 1, 1
+  index: -1
+47
+  rotate: false
+  xy: 828, 663
+  size: 762, 649
+  orig: 764, 653
+  offset: 1, 1
+  index: -1
+48
+  rotate: false
+  xy: 2, 663
+  size: 824, 649
+  orig: 826, 653
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 2, 1314
+  size: 827, 649
+  orig: 830, 653
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 831, 1314
+  size: 802, 649
+  orig: 806, 653
+  offset: 2, 1
+  index: -1
+8
+  rotate: false
+  xy: 2, 12
+  size: 773, 649
+  orig: 776, 653
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 777, 12
+  size: 735, 649
+  orig: 738, 653
+  offset: 1, 1
+  index: -1
+
+Rainbow4.png
+size: 2004,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18
+  rotate: true
+  xy: 1457, 2
+  size: 453, 488
+  orig: 456, 491
+  offset: 1, 1
+  index: -1
+19
+  rotate: false
+  xy: 632, 21
+  size: 823, 434
+  orig: 827, 437
+  offset: 2, 1
+  index: -1
+21
+  rotate: false
+  xy: 2, 957
+  size: 932, 320
+  orig: 937, 323
+  offset: 3, 1
+  index: -1
+22
+  rotate: false
+  xy: 389, 1279
+  size: 970, 261
+  orig: 974, 263
+  offset: 1, 1
+  index: -1
+23
+  rotate: false
+  xy: 2, 1542
+  size: 970, 254
+  orig: 974, 257
+  offset: 1, 1
+  index: -1
+29
+  rotate: false
+  xy: 974, 1542
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+30
+  rotate: false
+  xy: 1361, 1542
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+31
+  rotate: true
+  xy: 1748, 1411
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+32
+  rotate: false
+  xy: 2, 1286
+  size: 385, 254
+  orig: 388, 257
+  offset: 1, 1
+  index: -1
+34
+  rotate: false
+  xy: 1361, 1231
+  size: 385, 309
+  orig: 388, 311
+  offset: 1, 1
+  index: -1
+35
+  rotate: false
+  xy: 936, 925
+  size: 385, 352
+  orig: 388, 356
+  offset: 1, 1
+  index: -1
+36
+  rotate: true
+  xy: 1323, 844
+  size: 385, 397
+  orig: 388, 399
+  offset: 1, 1
+  index: -1
+38
+  rotate: true
+  xy: 2, 570
+  size: 385, 489
+  orig: 388, 491
+  offset: 1, 1
+  index: -1
+40
+  rotate: true
+  xy: 493, 538
+  size: 385, 570
+  orig: 388, 572
+  offset: 1, 1
+  index: -1
+41
+  rotate: true
+  xy: 1065, 457
+  size: 385, 603
+  orig: 388, 605
+  offset: 1, 1
+  index: -1
+42
+  rotate: true
+  xy: 2, 120
+  size: 416, 628
+  orig: 418, 630
+  offset: 1, 1
+  index: -1
+
+Rainbow5.png
+size: 2005,1775
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1298, 2
+  size: 705, 649
+  orig: 710, 653
+  offset: 3, 1
+  index: -1
+13
+  rotate: true
+  xy: 2, 69
+  size: 619, 643
+  orig: 622, 645
+  offset: 1, 1
+  index: -1
+14
+  rotate: true
+  xy: 1262, 653
+  size: 592, 628
+  orig: 596, 630
+  offset: 2, 1
+  index: -1
+15
+  rotate: true
+  xy: 2, 730
+  size: 559, 607
+  orig: 562, 609
+  offset: 1, 1
+  index: -1
+16
+  rotate: true
+  xy: 1183, 1247
+  size: 526, 574
+  orig: 530, 576
+  offset: 2, 1
+  index: -1
+17
+  rotate: true
+  xy: 647, 1284
+  size: 489, 534
+  orig: 492, 536
+  offset: 1, 1
+  index: -1
+43
+  rotate: true
+  xy: 2, 1291
+  size: 482, 643
+  orig: 484, 647
+  offset: 1, 1
+  index: -1
+44
+  rotate: true
+  xy: 611, 690
+  size: 555, 649
+  orig: 558, 653
+  offset: 1, 1
+  index: -1
+45
+  rotate: true
+  xy: 647, 25
+  size: 626, 649
+  orig: 628, 653
+  offset: 1, 1
+  index: -1
+
+Rainbow6.png
+size: 2036,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 700, 2
+  size: 681, 649
+  orig: 684, 653
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 1383, 2
+  size: 651, 649
+  orig: 654, 653
+  offset: 1, 1
+  index: -1
+46
+  rotate: false
+  xy: 2, 2
+  size: 696, 649
+  orig: 698, 653
+  offset: 1, 1
+  index: -1

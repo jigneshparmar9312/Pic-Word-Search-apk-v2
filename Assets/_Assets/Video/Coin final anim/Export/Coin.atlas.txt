@@ -1,0 +1,1181 @@
+
+Coin.png
+size: 1834,1819
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 142
+  rotate: true
+  xy: 918, 457
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 143
+  rotate: true
+  xy: 1376, 457
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 18
+  rotate: true
+  xy: 2, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 98
+  rotate: true
+  xy: 2, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 19
+  rotate: true
+  xy: 2, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 99
+  rotate: true
+  xy: 2, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 20
+  rotate: true
+  xy: 460, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 100
+  rotate: true
+  xy: 460, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 21
+  rotate: true
+  xy: 918, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 101
+  rotate: true
+  xy: 918, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 22
+  rotate: true
+  xy: 1376, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 102
+  rotate: true
+  xy: 1376, 1365
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 23
+  rotate: true
+  xy: 2, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 103
+  rotate: true
+  xy: 2, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 24
+  rotate: true
+  xy: 460, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 104
+  rotate: true
+  xy: 460, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 58
+  rotate: true
+  xy: 918, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 138
+  rotate: true
+  xy: 918, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 59
+  rotate: true
+  xy: 460, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 139
+  rotate: true
+  xy: 460, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 60
+  rotate: true
+  xy: 918, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 140
+  rotate: true
+  xy: 918, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 61
+  rotate: true
+  xy: 1376, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 141
+  rotate: true
+  xy: 1376, 911
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 62
+  rotate: true
+  xy: 2, 457
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 63
+  rotate: true
+  xy: 460, 457
+  size: 452, 456
+  orig: 454, 458
+  offset: 1, 1
+  index: -1
+Layer 64
+  rotate: true
+  xy: 1376, 2
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+
+Coin2.png
+size: 1834,1826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: true
+  xy: 460, 1370
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 144
+  rotate: true
+  xy: 2, 1371
+  size: 453, 456
+  orig: 455, 458
+  offset: 1, 1
+  index: -1
+Layer 15
+  rotate: true
+  xy: 918, 1370
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 95
+  rotate: true
+  xy: 918, 1370
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 16
+  rotate: true
+  xy: 1376, 1370
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 96
+  rotate: true
+  xy: 1376, 1370
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: true
+  xy: 2, 915
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 97
+  rotate: true
+  xy: 2, 915
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 25
+  rotate: true
+  xy: 460, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 105
+  rotate: true
+  xy: 460, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 26
+  rotate: true
+  xy: 918, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 106
+  rotate: true
+  xy: 918, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 27
+  rotate: true
+  xy: 1376, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 107
+  rotate: true
+  xy: 1376, 914
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 28
+  rotate: true
+  xy: 2, 459
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 108
+  rotate: true
+  xy: 2, 459
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 54
+  rotate: true
+  xy: 460, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 134
+  rotate: true
+  xy: 460, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 55
+  rotate: true
+  xy: 918, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 135
+  rotate: true
+  xy: 918, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 56
+  rotate: true
+  xy: 1376, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 136
+  rotate: true
+  xy: 1376, 458
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 57
+  rotate: true
+  xy: 2, 3
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 137
+  rotate: true
+  xy: 2, 3
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 65
+  rotate: true
+  xy: 460, 2
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 66
+  rotate: true
+  xy: 918, 2
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 67
+  rotate: true
+  xy: 1376, 2
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+
+Coin3.png
+size: 1857,1830
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 13
+  rotate: true
+  xy: 918, 917
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 145
+  rotate: true
+  xy: 918, 1374
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 146
+  rotate: true
+  xy: 1376, 1374
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 147
+  rotate: true
+  xy: 2, 918
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 148
+  rotate: true
+  xy: 460, 918
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 149
+  rotate: true
+  xy: 1376, 460
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 29
+  rotate: true
+  xy: 1376, 917
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 109
+  rotate: true
+  xy: 1376, 917
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 3
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 465, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 929, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 53
+  rotate: true
+  xy: 2, 461
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 133
+  rotate: true
+  xy: 2, 461
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1393, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 68
+  rotate: true
+  xy: 2, 1374
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+Layer 69
+  rotate: true
+  xy: 460, 461
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 93
+  rotate: true
+  xy: 918, 460
+  size: 455, 456
+  orig: 457, 458
+  offset: 1, 1
+  index: -1
+Layer 94
+  rotate: true
+  xy: 460, 1374
+  size: 454, 456
+  orig: 456, 458
+  offset: 1, 1
+  index: -1
+
+Coin4.png
+size: 1850,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 1388, 1376
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 12
+  rotate: false
+  xy: 461, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 30
+  rotate: false
+  xy: 919, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 110
+  rotate: false
+  xy: 919, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 31
+  rotate: false
+  xy: 1377, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 32
+  rotate: false
+  xy: 2, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 33
+  rotate: false
+  xy: 461, 460
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 34
+  rotate: false
+  xy: 922, 460
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 38
+  rotate: false
+  xy: 1384, 460
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 41
+  rotate: false
+  xy: 2, 2
+  size: 458, 456
+  orig: 460, 458
+  offset: 1, 1
+  index: -1
+Layer 42
+  rotate: false
+  xy: 462, 2
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 43
+  rotate: false
+  xy: 923, 2
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 44
+  rotate: false
+  xy: 1386, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: false
+  xy: 2, 1376
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: false
+  xy: 465, 1376
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: false
+  xy: 927, 1376
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+
+Coin5.png
+size: 1855,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 45
+  rotate: false
+  xy: 2, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 46
+  rotate: false
+  xy: 466, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 47
+  rotate: false
+  xy: 930, 1376
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 48
+  rotate: false
+  xy: 1393, 1376
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 128
+  rotate: false
+  xy: 1393, 1376
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 49
+  rotate: false
+  xy: 2, 918
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 129
+  rotate: false
+  xy: 2, 918
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 50
+  rotate: false
+  xy: 463, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 130
+  rotate: false
+  xy: 463, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 51
+  rotate: false
+  xy: 922, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 131
+  rotate: false
+  xy: 922, 918
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 52
+  rotate: false
+  xy: 1381, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 132
+  rotate: false
+  xy: 1381, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 70
+  rotate: false
+  xy: 2, 460
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 71
+  rotate: false
+  xy: 460, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 72
+  rotate: false
+  xy: 919, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 73
+  rotate: false
+  xy: 1378, 460
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 74
+  rotate: false
+  xy: 2, 2
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 75
+  rotate: false
+  xy: 464, 2
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 76
+  rotate: false
+  xy: 927, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 77
+  rotate: false
+  xy: 1391, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+
+Coin6.png
+size: 1857,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 111
+  rotate: false
+  xy: 1378, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 112
+  rotate: false
+  xy: 2, 2
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 113
+  rotate: false
+  xy: 461, 2
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 114
+  rotate: false
+  xy: 922, 2
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 118
+  rotate: false
+  xy: 1384, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 78
+  rotate: false
+  xy: 2, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 83
+  rotate: false
+  xy: 466, 1376
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 84
+  rotate: false
+  xy: 929, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 85
+  rotate: false
+  xy: 1393, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 86
+  rotate: false
+  xy: 2, 918
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 87
+  rotate: false
+  xy: 466, 918
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 88
+  rotate: false
+  xy: 929, 918
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 89
+  rotate: false
+  xy: 1391, 918
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 90
+  rotate: false
+  xy: 2, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 91
+  rotate: false
+  xy: 461, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 92
+  rotate: false
+  xy: 920, 460
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+
+Coin7.png
+size: 1857,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 121
+  rotate: false
+  xy: 2, 1376
+  size: 458, 456
+  orig: 460, 458
+  offset: 1, 1
+  index: -1
+Layer 122
+  rotate: false
+  xy: 462, 1376
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 123
+  rotate: false
+  xy: 923, 1376
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 124
+  rotate: false
+  xy: 1386, 1376
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 125
+  rotate: false
+  xy: 2, 918
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 126
+  rotate: false
+  xy: 466, 918
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 127
+  rotate: false
+  xy: 930, 918
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 150
+  rotate: false
+  xy: 1393, 918
+  size: 456, 456
+  orig: 458, 458
+  offset: 1, 1
+  index: -1
+Layer 151
+  rotate: false
+  xy: 2, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 152
+  rotate: false
+  xy: 461, 460
+  size: 457, 456
+  orig: 459, 458
+  offset: 1, 1
+  index: -1
+Layer 153
+  rotate: false
+  xy: 920, 460
+  size: 459, 456
+  orig: 461, 458
+  offset: 1, 1
+  index: -1
+Layer 154
+  rotate: false
+  xy: 1381, 460
+  size: 460, 456
+  orig: 462, 458
+  offset: 1, 1
+  index: -1
+Layer 155
+  rotate: false
+  xy: 2, 2
+  size: 461, 456
+  orig: 463, 458
+  offset: 1, 1
+  index: -1
+Layer 156
+  rotate: false
+  xy: 465, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 157
+  rotate: false
+  xy: 929, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+Layer 158
+  rotate: false
+  xy: 1393, 2
+  size: 462, 456
+  orig: 464, 458
+  offset: 1, 1
+  index: -1
+
+Coin8.png
+size: 1854,1838
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 1379
+  size: 458, 457
+  orig: 460, 459
+  offset: 1, 1
+  index: -1
+Layer 161
+  rotate: false
+  xy: 2, 1379
+  size: 458, 457
+  orig: 460, 459
+  offset: 1, 1
+  index: -1
+Layer 115
+  rotate: false
+  xy: 1384, 461
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 116
+  rotate: false
+  xy: 2, 2
+  size: 462, 457
+  orig: 464, 459
+  offset: 1, 1
+  index: -1
+Layer 117
+  rotate: false
+  xy: 466, 2
+  size: 462, 457
+  orig: 464, 459
+  offset: 1, 1
+  index: -1
+Layer 119
+  rotate: false
+  xy: 930, 2
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 120
+  rotate: false
+  xy: 1393, 2
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 462, 1379
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1
+Layer 35
+  rotate: false
+  xy: 923, 1379
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 36
+  rotate: false
+  xy: 1386, 1379
+  size: 462, 457
+  orig: 464, 459
+  offset: 1, 1
+  index: -1
+Layer 37
+  rotate: false
+  xy: 2, 920
+  size: 462, 457
+  orig: 464, 459
+  offset: 1, 1
+  index: -1
+Layer 39
+  rotate: false
+  xy: 466, 920
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 40
+  rotate: false
+  xy: 929, 920
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1
+Layer 79
+  rotate: false
+  xy: 1390, 920
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 80
+  rotate: false
+  xy: 2, 461
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1
+Layer 81
+  rotate: false
+  xy: 463, 461
+  size: 458, 457
+  orig: 460, 459
+  offset: 1, 1
+  index: -1
+Layer 82
+  rotate: false
+  xy: 923, 461
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1
+
+Coin9.png
+size: 926,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 159
+  rotate: false
+  xy: 2, 2
+  size: 461, 457
+  orig: 463, 459
+  offset: 1, 1
+  index: -1
+Layer 160
+  rotate: false
+  xy: 465, 2
+  size: 459, 457
+  orig: 461, 459
+  offset: 1, 1
+  index: -1

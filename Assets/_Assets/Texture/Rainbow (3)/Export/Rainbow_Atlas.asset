@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Rainbow_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 35df462990c51634aa6b2ae0b7d717cb, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e11537b0441b2c3419810ff5cbb23298, type: 2}
+  - {fileID: 2100000, guid: b714632ea91693b4586fed3a5299cde1, type: 2}
+  - {fileID: 2100000, guid: 4b87f170718c7554388ff53869f69be1, type: 2}
+  - {fileID: 2100000, guid: 36e7e9983c7d6a841b818b02d5e1ecf1, type: 2}
+  - {fileID: 2100000, guid: bd42edc90124dad45834095c6d6c3c81, type: 2}
+  - {fileID: 2100000, guid: 110401a8e35aeae4286f7546ae56e60f, type: 2}
